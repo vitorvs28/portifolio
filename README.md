@@ -28,7 +28,7 @@
 
 ## Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify:
+> Link do deploy da aplicação. Exemplo com netlify:https://portifolio-lovat-two.vercel.app/
 
 
   
