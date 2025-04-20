@@ -20,7 +20,7 @@
 
 ## Descrição do projeto
 
-<p align="justify">
+<p align="center">
  Este repostório foi desenvolvido como parte de uma atividade de aprendizado,com o objetivo de consolidar
  conhecimentos em desenvolvimento e boas práticas de programação.
  O foco deste projeto está no estudo e na experimentação de conceitos especificos.
@@ -29,6 +29,17 @@
 ## Deploy da Aplicação :dash:
 
 > Link do deploy da aplicação. Exemplo com netlify:https://portifolio-lovat-two.vercel.app/
+
+## Pré-requisitos
+
+:warning: [Node](https://nodejs.org/en/download/)
+
+...
+
+## Desenvolvedores :
+
+[<br><sub>vitorvs28</sub>](https://github.com/vitorvs28) 
+
 
 
   
