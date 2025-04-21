@@ -3,7 +3,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/status-cincluido-green">
 </p>
 
->Status Do Projet✔️:(Goncluido)
+>Status Do Projeto✔️:(Goncluido)
 >
 
 ### Tópicos
