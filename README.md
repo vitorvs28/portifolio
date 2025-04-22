@@ -28,7 +28,7 @@
 
 ## Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify:https://portifolio-lovat-two.vercel.app/
+> Link do deploy da aplicação.:https://portifolio-lovat-two.vercel.app/
 
 ## Pré-requisitos
 
