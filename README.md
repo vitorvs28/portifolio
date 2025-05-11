@@ -30,7 +30,7 @@
 
 > Link do deploy da aplicação.:https://portifolio-lovat-two.vercel.app/
 
-## Pré-requisitos
+# Pré-requisitos
 
 :warning: [Node](https://nodejs.org/en/download/)
 
